@@ -1,10 +1,10 @@
 # Rails Docker Training
 
-master - basic docker
-feature/1-docker-compose - run basic docker on Docker compose
-feature/2-add-models - integrate PostgreSQL on your Docker compose
-feature/3-sidekiq-integration - Add Sidekiq Integration
-feature/4-ecr-ready - Upload-ready for ECR
+- master - basic docker
+- feature/1-docker-compose - run basic docker on Docker compose
+- feature/2-add-models - integrate PostgreSQL on your Docker compose
+- feature/3-sidekiq-integration - Add Sidekiq Integration
+- feature/4-ecr-ready - Upload-ready for ECR
 
 ```sh
 git clone git@github.com:jamby1100/rails_docker_training.git
